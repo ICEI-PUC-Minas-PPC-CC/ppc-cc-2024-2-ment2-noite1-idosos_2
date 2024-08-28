@@ -1,8 +1,8 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: MENTORING II`
+`2024 - Semestre 2`
 
 ## Integrantes
 
@@ -10,6 +10,8 @@
 - Walison Contine
 - Ricardo Tartarini
 - Samuel Jacinto
+- João Victor Freitas
+- Leonardo Andrade
 
 ## Professor
 
