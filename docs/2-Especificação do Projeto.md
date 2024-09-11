@@ -15,7 +15,7 @@ Exemplo:
 
 | Maria de Fátima |           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" widt="200" height="200"/>|**Idade:** 71 anos. **Naturalidade:** Poços de Caldas - Mg **Ocupação:** Aposentada       |**Atribuições:** Aposentada na area da saude, hoje Maria cuida da casa e dos netos.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/docs/img/mariadefatima.png" widt="200" height="200"/>|**Idade:** 71 anos. **Naturalidade:** Poços de Caldas - Mg **Ocupação:** Aposentada       |**Atribuições:** Aposentada na area da saude, hoje Maria cuida da casa e dos netos.
 |**Motivações:** por passar muito tempo em casa gostaria de se manter sempre atualizada sobre as notícias em geral    |**Frustações:** dificuldade de diferenciar um conteudo verídico para um malicioso, por conta das fake news ela foi vítima de uma informação falsa, acabou espalhando desinformação e tem medo que aconteça novamente. além de não usar bancos digitais/pix por medo de possiveis golpes.   |**Hobbies, história:** Depois da aposentadoria Maria de Fátima busca sossego, o passatempo preferido dela é ler blogs, notícias e passar seu tempo nas redes sociais.
 
 
