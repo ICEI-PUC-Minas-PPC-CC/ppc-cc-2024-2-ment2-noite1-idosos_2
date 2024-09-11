@@ -1,43 +1,30 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+ O projeto busca combater a disseminação de fake news entre idosos, que são mais vulneráveis por sua menor familiaridade com tecnologias digitais. Com o crescimento das redes sociais, eles enfrentam riscos de desinformação, fraudes e decisões prejudiciais. A iniciativa promove a alfabetização digital, prevenindo notícias falsas, e oferece suporte para navegação segura. Além dos idosos, inclui cuidadores e familiares, visando garantir segurança e empoderamento digital para uma participação informada na sociedade moderna.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+ Fake news e deepfakes representam sérios problemas para os idosos, pois eles frequentemente têm mais dificuldades para distinguir informações falsas das verdadeiras devido a familiaridade limitada com tecnologia e métodos de verificação. Fake news podem explorar medos e preconceitos comuns entre os mais velhos, influenciando suas opiniões e decisões, enquanto deepfakes podem ser usados para criar fraudes financeiras ou enganar emocionalmente esses indivíduos. A combinação desses fatores pode agravar a vulnerabilidade dos idosos à desinformação e manipulação, tornando essencial o desenvolvimento de estratégias de alfabetização digital e suporte para ajudá-los a navegar de forma segura no ambiente online.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+ Coletar informações detalhadas sobre as percepções dos idosos em relação ao conteúdo digital e como eles verificam a autenticidade de informações, além de suas experiências anteriores com fake news.
+Avaliar o conhecimento prévio dos idosos sobre fake news e deep fakes, além de identificar as principais dificuldades que eles enfrentam ao usar a internet e redes sociais.
+Com base nisso, conseguiremos auxiliá-los a identificar fakes para previnir golpes e propagação. 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+ A criação de métodos de prevenção contra deep fakes usados contra idosos é crucial por várias razões:
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+ Vulnerabilidade dos Idosos: Idosos frequentemente têm menos familiaridade com as tecnologias digitais e podem ser mais suscetíveis a manipulações online. A falta de experiência com novas tecnologias pode torná-los alvos fáceis para fraudes e desinformações criadas por deep fakes.
+ Segurança Financeira: Deep fakes podem ser utilizados para realizar fraudes financeiras, como enganar idosos para que revelem informações pessoais ou financeiras. Eles podem receber vídeos falsos de familiares ou instituições bancárias pedindo que transfiram dinheiro ou compartilhem dados sensíveis, resultando em perdas financeiras significativas.
+ Relações Pessoais e Emocionais: Manipulações de deep fakes podem ser usadas para criar vídeos falsos em que se faz parecer que um familiar está em perigo ou precisa de ajuda. Isso pode causar grande angústia emocional e estresse aos idosos, que podem reagir impulsivamente em resposta a essas manipulações.
+ Reputação e Identidade: A criação e disseminação de deep fakes que utilizam a imagem de idosos pode prejudicar sua reputação e identidade. Isso pode incluir a criação de conteúdos prejudiciais ou difamatórios que afetam a percepção pública e a dignidade pessoal dos idosos.
+ Confiança em Instituições: Idosos podem ser mais propensos a confiar em instituições e autoridades, o que pode ser explorado por deep fakes para manipular essa confiança. Fraudes que usam deep fakes para se passar por representantes de instituições financeiras, médicos ou outras autoridades podem resultar em consequências graves.
+ Educação e Conscientização: Muitas vezes, os idosos não são adequadamente educados sobre os riscos de deep fakes e as maneiras de se proteger contra eles. Desenvolver métodos de prevenção também inclui esforços para educar essa população sobre os sinais de deep fakes e como agir com cautela.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+ Portanto, a criação de métodos de prevenção contra deep fakes para proteger idosos é essencial para garantir a segurança financeira, emocional e a integridade pessoal dessa população vulnerável, ao mesmo tempo em que promove um ambiente digital mais seguro e confiável.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Neste projeto o público alvo são os Idosos, porém, pode ajudar a população em geral, visto que fraudes e golpes envolvendo Deepfakes cresceram cerca de 830% no Brasil nos últimos tempos, segundo o "Jornal" Terra, nesse caso, idosos são as principais e maiores vítimas desse golpe por conta da dificuldade de não reconhecer oque é e oque não é uma fraude alimentada por inteligência artificial (documentos, áudios, imagens e vídeos) por isso nesse projeto queremos visar e abordar maneiras de se prevenirem e não serem prejudicados pelas Deepfakes.
