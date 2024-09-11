@@ -10,7 +10,7 @@ Exemplo:
 
 | José Paulo |           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 66 anos. **Naturalidade:** Santa Rita de Caldas - Minas Gerais. **Ocupação:** Motorista de Van Escolar.       |**Atribuições:** Gerencia operações com crianças e jovens , levando e trazendo do colégio.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/docs/img/baixados%20(1).jpg" width="200" height="200"/>|**Idade:** 66 anos. **Naturalidade:** Santa Rita de Caldas - Minas Gerais. **Ocupação:** Motorista de Van Escolar.       |**Atribuições:** Gerencia operações com crianças e jovens , levando e trazendo do colégio.
 |**Motivações:** Deseja poder interagir nas plataformas digitais com seus alunos e familiares para poder se tornar mais proximos deles .    |**Frustações:** Sofreu um golpe de deep fake , onde os bandidos usaram uma paltaforma de I.A. para modificar a voz na chamada, supondo que um dos seus netos tinha sofrido um sequestro . Onde ele perdeu uma quantia de dinheiro .   |**Hobbies, história:** Gosta de passar o tempo livre com a familia , cuidando dos netos e de seus animais de estimação .
 
 | Maria de Fátima |           |                             | 
