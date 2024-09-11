@@ -8,29 +8,16 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Exemplo:
 
-|**Maria de Fatima**|           |                             | 
+| José Paulo |           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 66 anos. **Naturalidade:** Santa Rita de Caldas - Minas Gerais. **Ocupação:** Motorista de Van Escolar.       |**Atribuições:** Gerencia operações com crianças e jovens , levando e trazendo do colégio.
+|**Motivações:** Deseja poder interagir nas plataformas digitais com seus alunos e familiares para poder se tornar mais proximos deles .    |**Frustações:** Sofreu um golpe de deep fake , onde os bandidos usaram uma paltaforma de I.A. para modificar a voz na chamada, supondo que um dos seus netos tinha sofrido um sequestro . Onde ele perdeu uma quantia de dinheiro .   |**Hobbies, história:** Gosta de passar o tempo livre com a familia , cuidando dos netos e de seus animais de estimação .
 
-|**Camila Fiães**|           |                             | 
+| Maria de Fátima |           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 66 anos. **Naturalidade:** Santa Rita de Caldas - Minas Gerais. **Ocupação:** Motorista de Van Escolar.       |**Atribuições:** Gerencia operações com crianças e jovens , levando e trazendo do colégio.
+|**Motivações:** Deseja poder interagir nas plataformas digitais com seus alunos e familiares para poder se tornar mais proximos deles .    |**Frustações:** Sofreu um golpe de deep fake , onde os bandidos usaram uma paltaforma de I.A. para modificar a voz na chamada, supondo que um dos seus netos tinha sofrido um sequestro . Onde ele perdeu uma quantia de dinheiro .   |**Hobbies, história:** Gosta de passar o tempo livre com a familia , cuidando dos netos e de seus animais de estimação .
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
 
 ## Histórias de Usuários
 
@@ -40,12 +27,12 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Maria de Fatima | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Maria de Fatima | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-|Maria de Fatima | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|x | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|x| Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|x | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|José Paulo | Ficar por dentro sobre noticias de golpes usando I.A.  | Não cair em novos golpes. |
+|José Paulo | Passar seu tempo livre na internet sem medo.   | Ficar por dentro da noticias. |
+|José Paulo | Ensinar seus netos e alunos sobre a deep fakes. | Mais pessoas não cairem em golpes. |
+|x | Ficar por dentro sobre noticias de golpes usando I.A.  | Não cair em novos golpes. |
+|x | Ficar por dentro sobre noticias de golpes usando I.A.  | Não cair em novos golpes. |
+|x | Ficar por dentro sobre noticias de golpes usando I.A.  | Não cair em novos golpes. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
