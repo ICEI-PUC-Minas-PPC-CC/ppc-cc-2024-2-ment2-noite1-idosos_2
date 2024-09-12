@@ -1,17 +1,16 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
-
 ## Personas
 
-Exemplo:
 
 | José Paulo |           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/docs/img/baixados%20(1).jpg" width="200" height="200"/>|**Idade:** 66 anos. **Naturalidade:** Santa Rita de Caldas - Minas Gerais. **Ocupação:** Motorista de Van Escolar.       |**Atribuições:** Gerencia operações com crianças e jovens , levando e trazendo do colégio.
 |**Motivações:** Deseja poder interagir nas plataformas digitais com seus alunos e familiares para poder se tornar mais proximos deles .    |**Frustações:** Sofreu um golpe de deep fake , onde os bandidos usaram uma paltaforma de I.A. para modificar a voz na chamada, supondo que um dos seus netos tinha sofrido um sequestro . Onde ele perdeu uma quantia de dinheiro .   |**Hobbies, história:** Gosta de passar o tempo livre com a familia , cuidando dos netos e de seus animais de estimação .
+
+---
+---
+---
 
 | Maria de Fátima |           |                             | 
 |-------------------|-----------|-----------------------------|
@@ -23,18 +22,15 @@ Exemplo:
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-Exemplo:
-
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |José Paulo | Ficar por dentro sobre noticias de golpes usando I.A.  | Não cair em novos golpes. |
 |José Paulo | Passar seu tempo livre na internet sem medo.   | Ficar por dentro da noticias. |
 |José Paulo | Ensinar seus netos e alunos sobre a deep fakes. | Mais pessoas não cairem em golpes. |
 |Maria de Fátima | Diferenciar um conteudo malicioso pra um verídico  | Não cair em golpes novamente. |
-|Maria de Fátima | Navegar na internet sem riscos  | para não espalhar desinformação. |
+|Maria de Fátima | Navegar na internet sem riscos  | Não espalhar desinformação. |
 |Maria de Fátima | Métodos para identificar uma Deepfake  | Denunciar e bloquear a fonte falsa. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
