@@ -1,17 +1,9 @@
-# Referências
+[1] https://pt.linkedin.com/pulse/fake-news-vs-deepfake-entendendo-diferen%C3%A7a-e-de-estar-pedro-sousa-3q2yf
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
+[2] https://www.todamateria.com.br/fake-news/#:~:text=Algumas%20consequ%C3%AAncias%20das%20fake%20news%20s%C3%A3o%3A%201%20Manipula%C3%A7%C3%A3o,ao%20preconceito%3B%207%20Agravamento%20de%20surto%20de%20doen%C3%A7a.
 
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
+[3] https://itshow.com.br/o-que-e-deepfake-e-como-se-proteger-dos-riscos-da-desinformacao/
 
-Exemplos de referências:
+[4] https://www.bbc.com/portuguese/brasil-46849533
 
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
-
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
-
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
+[5] https://www.terra.com.br/noticias/deepfakes-crescem-830-no-brasil-em-um-ano-aponta-estudo,601f3d28caa943b3728390a82f13cc2b0x3pdhbk.html
