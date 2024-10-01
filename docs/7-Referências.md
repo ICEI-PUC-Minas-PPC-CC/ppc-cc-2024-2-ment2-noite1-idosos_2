@@ -6,6 +6,8 @@
 
 [4] https://www.bbc.com/portuguese/brasil-46849533
 
-[5] https://www.terra.com.br/noticias/deepfakes-crescem-830-no-brasil-em-um-ano-aponta-estudo,601f3d28caa943b3728390a82f13cc2b0x3pdhbk.html
+[5] Sumsub, 2023.
+Disponível em: https://www.terra.com.br/noticias/deepfakes-crescem-830-no-brasil-em-um-ano-aponta-estudo,601f3d28caa943b3728390a82f13cc2b0x3pdhbk.html
 
-[6] https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2024-06/golpes-pela-internet-aumentam-contra-populacao-idosa
+[6] PESSOA, Carolina. Golpes pela internet aumentam contra população idosa, 2024.
+Disponível em: https://agenciabrasil.ebc.com.br/radioagencia-nacional/direitos-humanos/audio/2024-06/golpes-pela-internet-aumentam-contra-populacao-idosa
