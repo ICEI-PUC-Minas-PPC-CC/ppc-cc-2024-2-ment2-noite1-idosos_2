@@ -18,5 +18,6 @@
 | | Resumo dos pontos principais   | -//- |
 | | Dicas simples para identificar e evitar desinformação   | -//- |
 
+O grupo todo se disponibilizou para:
 
-
+| Terça-feira e Quarta-feira | Periodo noturno |
