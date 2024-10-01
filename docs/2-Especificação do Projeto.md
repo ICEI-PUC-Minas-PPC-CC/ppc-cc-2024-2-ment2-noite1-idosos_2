@@ -14,8 +14,8 @@
 
 | Maria de Fátima |           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/docs/img/baixados.jpg" widt="200" height="200"/>|**Idade:** 71 anos. **Naturalidade:** Poços de Caldas - Mg **Ocupação:** Aposentada       |**Atribuições:** Aposentada na area da saude, hoje Maria cuida da casa e dos netos.
-|**Motivações:** por passar muito tempo em casa gostaria de se manter sempre atualizada sobre as notícias em geral    |**Frustações:** dificuldade de diferenciar um conteudo verídico para um malicioso, por conta das fake news ela foi vítima de uma informação falsa, acabou espalhando desinformação e tem medo que aconteça novamente. além de não usar bancos digitais/pix por medo de possiveis golpes.   |**Hobbies, história:** Depois da aposentadoria Maria de Fátima busca sossego, o passatempo preferido dela é ler blogs, notícias e passar seu tempo nas redes sociais.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/docs/img/baixados.jpg" widt="200" height="200"/>|**Idade:** 71 anos. **Naturalidade:** Poços de Caldas - Mg **Ocupação:** Aposentada       |**Atribuições:** Aposentada na area da saude, hoje Maria cuida da casa e dos netos. (Esposa de Jose Carlos)
+|**Motivações:** por passar muito tempo em casa gostaria de se manter sempre atualizada sobre as notícias em geral.    |**Frustações:** dificuldade de diferenciar um conteudo verídico para um malicioso, por conta das fake news ela foi vítima de uma informação falsa, acabou espalhando desinformação recebida pelo próprio marido e tem medo que aconteça novamente. além de não usar bancos digitais/pix por medo de possiveis golpes.    |**Hobbies, história:** Depois da aposentadoria Maria de Fátima busca sossego, o passatempo preferido dela é ler blogs, notícias e passar seu tempo nas redes sociais.
 
 
 ## Histórias de Usuários
@@ -28,5 +28,5 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |José Paulo | Passar seu tempo livre na internet sem medo.   | Ficar por dentro da noticias. |
 |José Paulo | Ensinar seus netos e alunos sobre a deep fakes. | Mais pessoas não cairem em golpes. |
 |Maria de Fátima | Diferenciar um conteudo malicioso pra um verídico  | Não cair em golpes novamente. |
-|Maria de Fátima | Navegar na internet sem riscos  | Não espalhar desinformação. |
+|Maria de Fátima | Ajudar principalmente o marido em relação a desinformação  | Não espalhar desinformação. |
 |Maria de Fátima | Métodos para identificar uma Deepfake  | Denunciar e bloquear a fonte falsa. |
