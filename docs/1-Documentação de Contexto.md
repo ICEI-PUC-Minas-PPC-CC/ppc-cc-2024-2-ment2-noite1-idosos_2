@@ -4,7 +4,7 @@
 
 ## Problema
 
- A população idosa é mais vulnerável a desinformação e fakes por conta da maior dificuldade com o mundo digital, sendo mais leigos em relação a verificar autenticidade e com isso a propagação de informações falsas e golpes aumentam cada vez mais.
+ A população idosa é mais vulnerável a desinformação e fakes, segundo Guess, Nagler e Tucker (2016), por conta da maior dificuldade com o mundo digital, sendo mais leigos em relação a verificar autenticidade e com isso a propagação de informações falsas e golpes aumentam cada vez mais.
 
 ## Objetivos
 
