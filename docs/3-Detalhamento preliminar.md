@@ -20,4 +20,4 @@
 
 O grupo todo se disponibilizou para:
 
-| Terça-feira e Quarta-feira | Periodo noturno |
+| Terça-feira e Quarta-feira | Periodo da tarde |
