@@ -1,6 +1,7 @@
 [1] https://pt.linkedin.com/pulse/fake-news-vs-deepfake-entendendo-diferen%C3%A7a-e-de-estar-pedro-sousa-3q2yf
 
-[2] https://www.todamateria.com.br/fake-news/#:~:text=Algumas%20consequ%C3%AAncias%20das%20fake%20news%20s%C3%A3o%3A%201%20Manipula%C3%A7%C3%A3o,ao%20preconceito%3B%207%20Agravamento%20de%20surto%20de%20doen%C3%A7a.
+[2] GUESS, A.; NAGLER, J.; TUCKER, J. Publicado pela revista científica Science Advance (2016).
+Disponível em: https://www.todamateria.com.br/fake-news/#:~:text=Algumas%20consequ%C3%AAncias%20das%20fake%20news%20s%C3%A3o%3A%201%20Manipula%C3%A7%C3%A3o,ao%20preconceito%3B%207%20Agravamento%20de%20surto%20de%20doen%C3%A7a.
 
 [3] https://itshow.com.br/o-que-e-deepfake-e-como-se-proteger-dos-riscos-da-desinformacao/
 
