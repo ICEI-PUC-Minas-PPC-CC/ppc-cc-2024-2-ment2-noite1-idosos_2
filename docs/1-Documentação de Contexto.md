@@ -10,7 +10,7 @@
 
  Coletar informações detalhadas sobre as percepções dos idosos em relação ao conteúdo digital e como eles verificam a autenticidade de informações, além de suas experiências anteriores com fake news.
  Avaliar o conhecimento prévio dos idosos sobre fake news e deep fakes, além de identificar as principais dificuldades que eles enfrentam ao usar a internet e redes sociais.
- Com base nisso, conseguiremos auxiliá-los a identificar fakes para previnir golpes e propagação através de oficinas presenciais, sendo melhor de ilustrar, exemplificar e instruir com mais facilidade e eficiência. 
+ Com base nisso, conseguiremos auxiliá-los a indentificar possíveis fakes para previnir golpes e propagação através de oficinas presenciais, sendo melhor de ilustrar, exemplificar e instruir com mais facilidade e eficiência. 
 
 ## Justificativa
 
