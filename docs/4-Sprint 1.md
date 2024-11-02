@@ -3,7 +3,10 @@ Parte 1:
 ponto 1.
 Desinformação é um termo que abrange várias maneiras de espalhar informações falsas ou enganosas. Um dos tipos mais comuns são as fake news, que são notícias inventadas ou distorcidas que buscam enganar as pessoas, geralmente usando manchetes chamativas. Outro exemplo são os deep fakes, que são vídeos ou áudios manipulados com tecnologia para fazer alguém parecer que disse ou fez algo que na verdade não aconteceu. Essas táticas podem causar confusão e até prejudicar a confiança nas informações que recebemos. Com tantas fontes por aí, é importante saber diferenciar o que é verdadeiro do que é falso, para que possamos tomar decisões informadas e evitar cair em armadilhas.
 
-================================
+Ponto 3.
+Ela se espalha muito porque toca nas emoções das pessoas. Coisas que causam medo, raiva ou indignação costumam ser mais compartilhadas. Notícias exageradas chamam a atenção e fazem com que as pessoas reagem rápido, compartilhando sem nem checar se são verdadeiras. Histórias que fazem a gente se identificar ou sentir empatia também têm mais chance de se espalhar, porque as pessoas se conectam com experiências que parecem com as suas. Além disso, muitas pessoas compartilham informações que vão de encontro às suas crenças, sem parar para verificar se estão corretas.
+Quando alguém famoso ou uma figura pública compartilha uma informação, isso pode criar um efeito cascata. Os seguidores, muitas vezes por admiração ou lealdade, acabam replicando essas mensagens, aumentando ainda mais o alcance. E conteúdos que despertam emoções fortes têm mais chances de se tornar virais, já que são mais fáceis de lembrar e compartilhar, criando um ciclo onde a desinformação se espalha rapidamente.
+=================================
 Parte 2:
 =================================
 Parte 3:
