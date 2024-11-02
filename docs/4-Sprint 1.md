@@ -1,3 +1,18 @@
+Parte 1: 
+
+ponto 1.
+Desinformação é um termo que abrange várias maneiras de espalhar informações falsas ou enganosas. Um dos tipos mais comuns são as fake news, que são notícias inventadas ou distorcidas que buscam enganar as pessoas, geralmente usando manchetes chamativas. Outro exemplo são os deep fakes, que são vídeos ou áudios manipulados com tecnologia para fazer alguém parecer que disse ou fez algo que na verdade não aconteceu. Essas táticas podem causar confusão e até prejudicar a confiança nas informações que recebemos. Com tantas fontes por aí, é importante saber diferenciar o que é verdadeiro do que é falso, para que possamos tomar decisões informadas e evitar cair em armadilhas.
+
+================================
+Parte 2:
+=================================
+Parte 3:
+=================================
+Parte 4:
+=================================
+Parte 5:
+=================================
+
 Parte 6:
 
 Ponto 1. As notícias falsas usam manchetes exageradas e chamativas para chamar nossa atenção e mexer com nossas emoções. Por isso, é essencial ler com cuidado e ter um olhar crítico.
