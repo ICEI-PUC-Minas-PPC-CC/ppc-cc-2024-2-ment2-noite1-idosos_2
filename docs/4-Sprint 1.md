@@ -40,12 +40,11 @@ https://lupa.uol.com.br/
 =================================
 Parte 5:
 
-Os idosos podem ser mais suscetíveis a desinformações devido a questões cognitivas, como perda de memória ou diminuição da capacidade crítica. Como isso impacta a maneira como eles consomem notícias?
-Fake news relacionadas à saúde podem levar a decisões prejudiciais, como recusa de vacinas ou adesão a tratamentos não comprovados. Quais são os casos mais recorrentes e suas consequências?
-O isolamento social pode intensificar a exposição a fake news, uma vez que muitos idosos consomem informações principalmente por meio de redes sociais ou grupos de mensagens. Como isso afeta suas relações e bem-estar emocional?
-A falta de habilidades digitais pode dificultar a identificação de notícias falsas. Quais iniciativas podem ser implementadas para melhorar a alfabetização midiática entre os idosos?
-As redes sociais são uma fonte comum de informações, mas também de desinformação. Como as plataformas podem ser mais responsáveis em proteger os usuários mais vulneráveis?
-Quais são as implicações legais da disseminação de fake news, especialmente quando afetam um grupo vulnerável como os idosos? Como as políticas públicas podem abordar essa questão?
+Como vocês definem fake news? O que isso significa para vocês?
+Quais impactos vocês acham que a fake news pode causar?
+Vocês conhecem alguém que foi enganado por uma fake news? Como isso afetou essa pessoa?
+Vocês procuram a veracidade das notícias? Se sim, como?
+O que pode ser feito para ajudá-los a combatê-las?
 
 =================================
 
