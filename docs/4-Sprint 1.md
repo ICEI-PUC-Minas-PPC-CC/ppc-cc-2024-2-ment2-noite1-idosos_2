@@ -12,6 +12,31 @@ Parte 2:
 Parte 3:
 =================================
 Parte 4:
+Para identificar fake news e links falsos, é importante ficar atento a algumas coisas. Primeiro, sempre verifique a data da publicação. Às vezes, a notícia não é falsa, mas é antiga e pode estar fora de contexto, gerando desinformação. Além disso, cuidado com links suspeitos! Existem muitos golpistas por aí que criam links falsos que parecem legítimos, mas na verdade são armadilhas. Por exemplo, um link que deveria ser "g1.com" pode aparecer como "gl.com", com um "L" no lugar do "1". Fique esperto com pequenas alterações!
+  Outra dica é consultar agências de checagem. Muitas vezes, as fake news que circulam são desmentidas por essas organizações. Se receber algo que te deixe em dúvida, vale a pena conferir sites como PolitiFact, Snopes, FactCheck.org, Aos Fatos, Lupa ou Checamos. Eles ajudam a esclarecer informações e notícias virais.
+  E não se esqueça que algumas histórias podem ser sátiras ou paródias. Tem muito conteúdo por aí que usa humor e exagero para brincar com notícias, e se você compartilhar sem contexto, pode acabar gerando confusão.
+  Por fim, fique de olho nas fontes das informações. Procure sempre por veículos de comunicação confiáveis. E, claro, sempre leia a matéria completa e não se limite à manchete, que pode ser enganosa. Preste atenção também na linguagem do texto: se tiver muitos erros ou um tom exagerado, desconfie. Por último, se algo parecer alarmante ou urgente demais, isso pode ser uma tática para fazer você agir sem pensar. Com essas dicas, você vai estar mais preparado para identificar fake news e se proteger da desinformação.
+
+
+Alguns sites de checagem:
+
+PolitiFact
+https://www.politifact.com/
+
+Snopes
+https://www.snopes.com/
+
+Factcheck
+FactCheck.org
+
+Aos Fatos
+https://www.aosfatos.org/
+
+Checamos 
+https://checamos.afp.com/
+
+Lupa
+https://lupa.uol.com.br/
 =================================
 Parte 5:
 =================================
