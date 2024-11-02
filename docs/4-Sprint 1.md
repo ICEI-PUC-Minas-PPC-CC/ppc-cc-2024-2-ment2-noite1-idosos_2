@@ -1,4 +1,5 @@
 (1)
+
 Parte 1: 
 ponto 1.
 
@@ -57,3 +58,6 @@ Em resumo, desconfie de manchetes exageradas, verifique a data das notícias, ch
 
 (2 & 3) Dia 25/11 //  14:00 ~ 17:00  //  Inscrições pelo numero 3729-9246(extensão) 
 Divulgação por panfletos/redes sociais
+
+
+Slides: https://www.canva.com/design/DAGVLlpwOow/LBtNO8Za3TAiaYZqFdGKLg/view?utm_content=DAGVLlpwOow&utm_campaign=designshare&utm_medium=link&utm_source=editor
