@@ -39,6 +39,20 @@ Lupa
 https://lupa.uol.com.br/
 =================================
 Parte 5:
+
+Vulnerabilidade Cognitiva:
+Os idosos podem ser mais suscetíveis a desinformações devido a questões cognitivas, como perda de memória ou diminuição da capacidade crítica. Como isso impacta a maneira como eles consomem notícias?
+Impacto na Saúde:
+Fake news relacionadas à saúde podem levar a decisões prejudiciais, como recusa de vacinas ou adesão a tratamentos não comprovados. Quais são os casos mais recorrentes e suas consequências?
+Isolamento Social e Desinformação:
+O isolamento social pode intensificar a exposição a fake news, uma vez que muitos idosos consomem informações principalmente por meio de redes sociais ou grupos de mensagens. Como isso afeta suas relações e bem-estar emocional?
+Educação e Alfabetização Midiática:
+A falta de habilidades digitais pode dificultar a identificação de notícias falsas. Quais iniciativas podem ser implementadas para melhorar a alfabetização midiática entre os idosos?
+Influência de Redes Sociais:
+As redes sociais são uma fonte comum de informações, mas também de desinformação. Como as plataformas podem ser mais responsáveis em proteger os usuários mais vulneráveis?
+Repercussões Legais e Éticas:
+Quais são as implicações legais da disseminação de fake news, especialmente quando afetam um grupo vulnerável como os idosos? Como as políticas públicas podem abordar essa questão?
+
 =================================
 
 Parte 6:
