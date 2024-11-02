@@ -7,9 +7,9 @@ Ponto 3.
 Ela se espalha muito porque toca nas emoções das pessoas. Coisas que causam medo, raiva ou indignação costumam ser mais compartilhadas. Notícias exageradas chamam a atenção e fazem com que as pessoas reagem rápido, compartilhando sem nem checar se são verdadeiras. Histórias que fazem a gente se identificar ou sentir empatia também têm mais chance de se espalhar, porque as pessoas se conectam com experiências que parecem com as suas. Além disso, muitas pessoas compartilham informações que vão de encontro às suas crenças, sem parar para verificar se estão corretas.
 Quando alguém famoso ou uma figura pública compartilha uma informação, isso pode criar um efeito cascata. Os seguidores, muitas vezes por admiração ou lealdade, acabam replicando essas mensagens, aumentando ainda mais o alcance. E conteúdos que despertam emoções fortes têm mais chances de se tornar virais, já que são mais fáceis de lembrar e compartilhar, criando um ciclo onde a desinformação se espalha rapidamente.
 =================================
-Parte 2:
+Parte 2: (Slides)
 =================================
-Parte 3:
+Parte 3: (Slides)
 =================================
 Parte 4:
 Para identificar fake news e links falsos, é importante ficar atento a algumas coisas. Primeiro, sempre verifique a data da publicação. Às vezes, a notícia não é falsa, mas é antiga e pode estar fora de contexto, gerando desinformação. Além disso, cuidado com links suspeitos! Existem muitos golpistas por aí que criam links falsos que parecem legítimos, mas na verdade são armadilhas. Por exemplo, um link que deveria ser "g1.com" pode aparecer como "gl.com", com um "L" no lugar do "1". Fique esperto com pequenas alterações!
