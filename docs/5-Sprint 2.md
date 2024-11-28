@@ -5,3 +5,7 @@ Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes
 O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
 
 Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista de presença, vídeos etc) deverá ser incluído nesta etapa. Nesta etapa, também deverão ser apresentadas as percepções do grupo com relação à prática extensionista desenvolvida respondendo questões como: o objetivo inicial foi alcançado? quais foram as principais dificuldades enfrentadas pelo grupo? que mudanças poderiam ser realizadas que tornaria o processo mais eficiente? Entre outras...
+
+
+link da arte:
+https://www.canva.com/design/DAGWfpzS84Q/L-i_5kz1olhKjGThNbHqSg/edit?utm_content=DAGWfpzS84Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
