@@ -1,8 +1,13 @@
 # Sprint 2
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 2.
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
-Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista de presença, vídeos etc) deverá ser incluído nesta etapa. Nesta etapa, também deverão ser apresentadas as percepções do grupo com relação à prática extensionista desenvolvida respondendo questões como: o objetivo inicial foi alcançado? quais foram as principais dificuldades enfrentadas pelo grupo? que mudanças poderiam ser realizadas que tornaria o processo mais eficiente? Entre outras...
+O objetivo inicial foi alcançado?
+-> Sim, acho que conseguimos enfatizar e deixar claro a respeito do assunto que abordamos, usamos vários exemplos, fizemos um ótimo conteúdo educativo e esperamos realmente alcançar uma boa apresentação do conteúdo
+
+Quais foram as principais dificuldades enfrentadas pelo grupo? 
+-> as principais dificuldades do grupo foram a falta de comunicação entre os membros e sobrecarga de criação de conteúdo para alguns membros do grupo no inicio do projeto.
+
+Que mudanças poderiam ser realizadas que tornaria o processo mais eficiente? Entre outras...
+-> Tendo em vista oque eu mencionamos na outra pergunta, acho que se tivesse mais comunicação entre os membros desse grupo, teria facilitado mais o desenvolver do projeto, nem todos membros do grupo conseguiam se reunir em sala de aula para então discutimos sobre o assunto e ter a ideia de todos a prontidão.
 
 =============================================================
 
