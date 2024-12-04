@@ -36,3 +36,7 @@ https://www.canva.com/design/DAGWfpzS84Q/L-i_5kz1olhKjGThNbHqSg/edit?utm_content
 
 Link dos Slides : 
 https://www.canva.com/design/DAGVLlpwOow/d5uKMWobV7hw9gmOGE_p8Q/edit?utm_content=DAGVLlpwOow&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+Fotos da Oficina adicionadas em "Issues"
+
