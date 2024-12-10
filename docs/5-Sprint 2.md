@@ -41,3 +41,6 @@ https://www.canva.com/design/DAGVLlpwOow/d5uKMWobV7hw9gmOGE_p8Q/edit?utm_content
 Link das fotos : 
 https://drive.google.com/drive/folders/1wzC9jwS-jghP7b8rH-iLcApmZpt62gaq?usp=sharing
 
+Link da Publicação no Instagram:
+https://www.instagram.com/p/DDIIaTCpoE2/?igsh=d3dzMTcxeW5sNDhy
+
