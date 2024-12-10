@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# COMO A DESINFORMAÇÃO PODE AFETAR SUA VIDA
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MENTORING II`
