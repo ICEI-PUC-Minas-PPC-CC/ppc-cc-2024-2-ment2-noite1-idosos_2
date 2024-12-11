@@ -46,3 +46,4 @@ https://www.instagram.com/p/DDIIaTCpoE2/?igsh=d3dzMTcxeW5sNDhy
 
 ![Foto 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Imagem%20do%20WhatsApp%20de%202024-12-10%20%C3%A0(s)%2020.07.27_d73b6bb6.jpg)
 
+![Foto 2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Imagem%20do%20WhatsApp%20de%202024-12-10%20%C3%A0(s)%2020.07.28_8d216661.jpg))
