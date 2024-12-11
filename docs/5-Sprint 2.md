@@ -59,7 +59,7 @@ https://globoplay.globo.com/v/13152385/
 
 
 
-[Link para o arquivo PDF](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Introdu%C3%A7%C3%A3o%20e%20Impactos%20da%20Desinforma%C3%A7%C3%A3o%20(3).pdfhttps://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Introdu%C3%A7%C3%A3o%20e%20Impactos%20da%20Desinforma%C3%A7%C3%A3o%20(3).pdf)
+[Link para o arquivo PDF](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Introdu%C3%A7%C3%A3o%20e%20Impactos%20da%20Desinforma%C3%A7%C3%A3o%20(3).pdf))
 
 
 
