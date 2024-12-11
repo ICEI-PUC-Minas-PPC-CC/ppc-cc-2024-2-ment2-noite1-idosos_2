@@ -56,3 +56,8 @@ https://globoplay.globo.com/v/13152385/
 ![Foto 4](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Imagem%20do%20WhatsApp%20de%202024-12-10%20%C3%A0(s)%2020.07.46_7889d716.jpg))
 
 ![Foto 5](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Imagem%20do%20WhatsApp%20de%202024-12-10%20%C3%A0(s)%2022.01.22_71574db1.jpg))
+
+
+
+[Arquivo.pdf]([nome-do-arquivo.pdf](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-idosos_2/blob/main/Introdu%C3%A7%C3%A3o%20e%20Impactos%20da%20Desinforma%C3%A7%C3%A3o%20(3).pdf))
+
